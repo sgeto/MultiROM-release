@@ -1,0 +1,1654 @@
+{
+  "status": "ok",
+  "date": "2016-03-25",
+  "commands": "",
+  "gpg": true,
+  "devices": [
+	{
+	  "files": [
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/multirom-20160207-v33-grouper.zip",
+		  "version": "33",
+		  "type": "multirom",
+		  "size": 4966233,
+		  "md5": "03baf7b184684ce7d6eb257a3b794ab8"
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/TWRP_multirom_grouper_20160210.img",
+		  "version": "mrom20160210-00",
+		  "type": "recovery",
+		  "size": 10072064,
+		  "md5": "c313956eabcd3620688455190d5305c9"
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.1",
+			  "4.1.1",
+			  "4.1.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_41-3.zip",
+		  "version": "Stock 4.1",
+		  "md5": "329afe0dc3a6f9b7ce9d3364a74601a7",
+		  "type": "kernel",
+		  "size": 5021870
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.2",
+			  "4.2.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_42-3.zip",
+		  "version": "Stock 4.2",
+		  "md5": "5070582fece657fe500314f1a4dedc4a",
+		  "type": "kernel",
+		  "size": 5054460
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.2.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_422-2.zip",
+		  "version": "Stock 4.2.2",
+		  "md5": "5b29fcf8594d69fe808811be04b47e72",
+		  "type": "kernel",
+		  "size": 5054406
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.3"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_430-2.zip",
+		  "version": "Stock 4.3",
+		  "md5": "c04709c7c73ea01ec181d1f807c48d7a",
+		  "type": "kernel",
+		  "size": 4968510
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_440.zip",
+		  "version": "Stock 4.4",
+		  "md5": "e649387db879eefb86020efe2e4923b2",
+		  "type": "kernel",
+		  "size": 4967949
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4.1",
+			  "4.4.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_441.zip",
+		  "version": "Stock 4.4.1 and 4.4.2",
+		  "md5": "f45141c90d4a972d33aee7ca74aed7a6",
+		  "type": "kernel",
+		  "size": 4970243
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4.3",
+			  "4.4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_443.zip",
+		  "version": "Stock 4.4.3 and 4.4.4",
+		  "md5": "274cab83b6484e4c0c3fd64a55248b58",
+		  "type": "kernel",
+		  "size": 4970698
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.0"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_50_final.zip",
+		  "version": "Stock 5.0",
+		  "md5": "a1fcf62a5c242dc6734a299deda4cb7f",
+		  "type": "kernel",
+		  "size": 4970648
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.0.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_502.zip",
+		  "version": "Stock 5.0.2",
+		  "md5": "01147eec97edb291cfa73b9b7e0d3c3d",
+		  "type": "kernel",
+		  "size": 4977729
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.1",
+			  "5.1.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_510.zip",
+		  "version": "Stock 5.1 and 5.1.1",
+		  "md5": "3f80efeb67f79697687b9964a9158eb7",
+		  "type": "kernel",
+		  "size": 4973262
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "4.2",
+			  "4.2.1",
+			  "4.2.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_cm101-5.zip",
+		  "version": "CM 10.1",
+		  "md5": "965466627804e74520940fcf14e32a40",
+		  "type": "kernel",
+		  "size": 6755273
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "4.3"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_cm102-2.zip",
+		  "version": "CM 10.2",
+		  "md5": "1657bf51a79689f4f719d4a7ff201cf6",
+		  "type": "kernel",
+		  "size": 6914470
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "4.4",
+			  "4.4.1",
+			  "4.4.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_cm11.zip",
+		  "version": "CM 11 (4.4 - 4.4.2)",
+		  "md5": "5e2da95b759ac8266becd346d29fa8b8",
+		  "type": "kernel",
+		  "size": 6921198
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "4.4.3",
+			  "4.4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_cm11-2-87193876fd.zip",
+		  "version": "CM 11 (4.4.3 - 4.4.4)",
+		  "md5": "7675f8323011b7f158208d89996aebcb",
+		  "type": "kernel",
+		  "size": 6922918
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "5.0",
+			  "5.0.1",
+			  "5.0.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_cm12-1-124dbe573f.zip",
+		  "version": "CM 12",
+		  "md5": "e7136f42e835cfe69b610ed1d6e17d64",
+		  "type": "kernel",
+		  "size": 5169946
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "5.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_cm121-01-5e0fa481d7.zip",
+		  "version": "CM 12.1",
+		  "md5": "91f4916665561fed3383a8fe9194d988",
+		  "type": "kernel",
+		  "size": 5204751
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/multirom_uninstaller-2.zip",
+		  "version": "",
+		  "type": "uninstaller",
+		  "size": 1536669,
+		  "md5": "5559bd3619eceb5669aeffee3925c6ed"
+		}
+	  ],
+	  "changelogs": [
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/changelog_grouper_multirom.txt",
+		  "name": "MultiROM"
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/changelog_grouper_recovery.txt",
+		  "name": "Recovery"
+		}
+	  ],
+	  "name": "grouper",
+	  "ubuntu_touch": {
+		"req_multirom": "17",
+		"req_recovery": "mrom20131110-00"
+	  }
+	},
+	{
+	  "files": [
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/multirom-20160207-v33-grouper.zip",
+		  "version": "33",
+		  "type": "multirom",
+		  "md5": "03baf7b184684ce7d6eb257a3b794ab8",
+		  "size": 4966233
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/TWRP_multirom_tilapia_20160210.img",
+		  "version": "mrom20160210-00",
+		  "type": "recovery",
+		  "size": 10072064,
+		  "md5": "374d7c4bc0376970016c56bd86b4993e"
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.1",
+			  "4.1.1",
+			  "4.1.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_41-3.zip",
+		  "version": "Stock 4.1",
+		  "md5": "329afe0dc3a6f9b7ce9d3364a74601a7",
+		  "type": "kernel",
+		  "size": 5021870
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.2",
+			  "4.2.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_42-3.zip",
+		  "version": "Stock 4.2",
+		  "md5": "5070582fece657fe500314f1a4dedc4a",
+		  "type": "kernel",
+		  "size": 5054460
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.2.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_422-2.zip",
+		  "version": "Stock 4.2.2",
+		  "md5": "5b29fcf8594d69fe808811be04b47e72",
+		  "type": "kernel",
+		  "size": 5054406
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.3"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_430-2.zip",
+		  "version": "Stock 4.3",
+		  "md5": "c04709c7c73ea01ec181d1f807c48d7a",
+		  "type": "kernel",
+		  "size": 4968510
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_440.zip",
+		  "version": "Stock 4.4",
+		  "md5": "e649387db879eefb86020efe2e4923b2",
+		  "type": "kernel",
+		  "size": 4967949
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4.1",
+			  "4.4.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_441.zip",
+		  "version": "Stock 4.4.1 and 4.4.2",
+		  "md5": "f45141c90d4a972d33aee7ca74aed7a6",
+		  "type": "kernel",
+		  "size": 4970243
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4.3",
+			  "4.4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_443.zip",
+		  "version": "Stock 4.4.3 and 4.4.4",
+		  "md5": "274cab83b6484e4c0c3fd64a55248b58",
+		  "type": "kernel",
+		  "size": 4970698
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.0"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_50_final.zip",
+		  "version": "Stock 5.0",
+		  "md5": "a1fcf62a5c242dc6734a299deda4cb7f",
+		  "type": "kernel",
+		  "size": 4970648
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.0.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_502.zip",
+		  "version": "Stock 5.0.2",
+		  "md5": "01147eec97edb291cfa73b9b7e0d3c3d",
+		  "type": "kernel",
+		  "size": 4977729
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.1",
+			  "5.1.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_510.zip",
+		  "version": "Stock 5.1 and 5.1.1",
+		  "md5": "3f80efeb67f79697687b9964a9158eb7",
+		  "type": "kernel",
+		  "size": 4973262
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "4.2",
+			  "4.2.1",
+			  "4.2.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_cm101-5.zip",
+		  "version": "CM 10.1",
+		  "md5": "965466627804e74520940fcf14e32a40",
+		  "type": "kernel",
+		  "size": 6755273
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "4.3"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_cm102-2.zip",
+		  "version": "CM 10.2",
+		  "md5": "1657bf51a79689f4f719d4a7ff201cf6",
+		  "type": "kernel",
+		  "size": 6914470
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "4.4",
+			  "4.4.1",
+			  "4.4.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_cm11.zip",
+		  "version": "CM 11 (4.4 - 4.4.2)",
+		  "md5": "5e2da95b759ac8266becd346d29fa8b8",
+		  "type": "kernel",
+		  "size": 6921198
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "4.4.3",
+			  "4.4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_cm11-2-87193876fd.zip",
+		  "version": "CM 11 (4.4.3 - 4.4.4)",
+		  "md5": "7675f8323011b7f158208d89996aebcb",
+		  "type": "kernel",
+		  "size": 6922918
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "5.0",
+			  "5.0.1",
+			  "5.0.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_cm12-1-124dbe573f.zip",
+		  "version": "CM 12",
+		  "md5": "e7136f42e835cfe69b610ed1d6e17d64",
+		  "type": "kernel",
+		  "size": 5169946
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "5.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_grouper_cm121-01-5e0fa481d7.zip",
+		  "version": "CM 12.1",
+		  "md5": "91f4916665561fed3383a8fe9194d988",
+		  "type": "kernel",
+		  "size": 5204751
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/multirom_uninstaller-2.zip",
+		  "version": "",
+		  "type": "uninstaller",
+		  "md5": "5559bd3619eceb5669aeffee3925c6ed",
+		  "size": 1536669
+		}
+	  ],
+	  "changelogs": [
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/changelog_grouper_multirom.txt",
+		  "name": "MultiROM"
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/changelog_grouper_recovery.txt",
+		  "name": "Recovery"
+		}
+	  ],
+	  "name": "tilapia",
+	  "ubuntu_touch": {
+		"req_multirom": "17",
+		"req_recovery": "mrom20131110-00"
+	  }
+	},
+	{
+	  "files": [
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/multirom-20160207-v33-flo.zip",
+		  "version": "33",
+		  "type": "multirom",
+		  "size": 5439346,
+		  "md5": "442b0c79d98ce70dc695208648014398"
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/TWRP_multirom_flo_20160210.img",
+		  "version": "mrom20160210-00",
+		  "type": "recovery",
+		  "size": 9988096,
+		  "md5": "55ee8107c248423b3ffc7324c96afdf6"
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.3"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_430-2.zip",
+		  "version": "Stock 4.3",
+		  "md5": "fcd1a7a0723a9a4bc85f33a386e0012f",
+		  "type": "kernel",
+		  "size": 6766133
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_440.zip",
+		  "version": "Stock 4.4",
+		  "md5": "c7d76b695ac68264e30d35c0b646c779",
+		  "type": "kernel",
+		  "size": 6888358
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4.1",
+			  "4.4.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_441.zip",
+		  "version": "Stock 4.4.1 and 4.4.2",
+		  "md5": "ac7c98159fc64709372bfc716d136a85",
+		  "type": "kernel",
+		  "size": 6891066
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4.3",
+			  "4.4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_443.zip",
+		  "version": "Stock 4.4.3 and 4.4.4",
+		  "md5": "2435a0612cc13e7dc7d5a12a918eee37",
+		  "type": "kernel",
+		  "size": 6895318
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "L"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_L.zip",
+		  "version": "Stock L preview",
+		  "md5": "62afcf59d79d905f8a5cdc6e4f77d92d",
+		  "type": "kernel",
+		  "size": 6897429
+		},
+		{
+		  "extra": {
+			"display": "LPX13D",
+			"releases": [
+			  "5.0"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_50_lpx13d.zip",
+		  "version": "Stock 5.0 preview (LPX13D)",
+		  "md5": "830e3ad9852db9c77c5063b18d3d4034",
+		  "type": "kernel",
+		  "size": 6901954
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.0"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_50_final.zip",
+		  "version": "Stock 5.0",
+		  "md5": "5bf161b53c2401738b771f6c807ac3ad",
+		  "type": "kernel",
+		  "size": 6902181
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.0.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_501.zip",
+		  "version": "Stock 5.0.1 and 5.0.2",
+		  "md5": "610791ed88c7aec7e00565a6bd3b0f27",
+		  "type": "kernel",
+		  "size": 6902489
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_510-2.zip",
+		  "version": "Stock 5.1",
+		  "md5": "66bf8378ef17413846fc622e6eaddc38",
+		  "type": "kernel",
+		  "size": 6883443
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.1.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_511-3.zip",
+		  "version": "Stock 5.1.1",
+		  "md5": "26a8a580eb56839a4a836a99cec2dcab",
+		  "type": "kernel",
+		  "size": 6882657
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "6.0",
+			  "6.0.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_601.zip",
+		  "version": "Stock 6.0 and 6.0.1",
+		  "md5": "78f9500de3200485a6a1ebafccfe1ffb",
+		  "type": "kernel",
+		  "size": 6874001
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_cm102-3.zip",
+		  "version": "CM 10.2 - old",
+		  "type": "kernel",
+		  "size": 6890131,
+		  "md5": "ad6d56fcab213c8abd8ff675d8a10659"
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "4.3"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_cm102_new.zip",
+		  "version": "CM 10.2 - new",
+		  "md5": "4b83802c7b449b1ad29a5c7cd3c4f769",
+		  "type": "kernel",
+		  "size": 6481187
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "4.4",
+			  "4.4.1",
+			  "4.4.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_cm11-5-a7e944881c.zip",
+		  "version": "CM 11 (4.4 - 4.4.2)",
+		  "md5": "6454a95118289daa03b45f495b6ea1d9",
+		  "type": "kernel",
+		  "size": 6551236
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "4.4.3",
+			  "4.4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_cm11-8-56220eb2ca.zip",
+		  "version": "CM 11 (4.4.3 - 4.4.4)",
+		  "md5": "7384f678b827347af27bf299ca07f995",
+		  "type": "kernel",
+		  "size": 6554447
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "5.0",
+			  "5.0.1",
+			  "5.0.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_cm12-1-791c990ed0.zip",
+		  "version": "CM 12",
+		  "md5": "c3818a405e5ba25cdcd1af072b88e5cc",
+		  "type": "kernel",
+		  "size": 6561413
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "5.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_cm121-01-ea9556ceb5.zip",
+		  "version": "CM 12.1",
+		  "md5": "f810d4e680f23a9edd35117bdd33ad88",
+		  "type": "kernel",
+		  "size": 6430549
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "6.0.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_cm13-01-b4a11dbae.zip",
+		  "version": "CM 13.0",
+		  "md5": "ad2e3ab13d75546ba1199e5be27a5171",
+		  "type": "kernel",
+		  "size": 4992006
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/multirom_uninstaller-flo-2.zip",
+		  "version": "",
+		  "type": "uninstaller",
+		  "size": 1536468,
+		  "md5": "49bcee4a0828a032f63cadb1307821c4"
+		}
+	  ],
+	  "changelogs": [
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/changelog_flo_multirom.txt",
+		  "name": "MultiROM"
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/changelog_flo_recovery.txt",
+		  "name": "Recovery"
+		}
+	  ],
+	  "name": "flo",
+	  "ubuntu_touch": {
+		"req_multirom": "22",
+		"req_recovery": "mrom20140227-00"
+	  }
+	},
+	{
+	  "files": [
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/multirom-20160207-v33-flo.zip",
+		  "version": "33",
+		  "type": "multirom",
+		  "md5": "442b0c79d98ce70dc695208648014398",
+		  "size": 5439346
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/TWRP_multirom_deb_20160210.img",
+		  "version": "mrom20160210-00",
+		  "type": "recovery",
+		  "size": 9988096,
+		  "md5": "6110f5862f5424e6374d5fe75e972282"
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.3"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_430-2.zip",
+		  "version": "Stock 4.3",
+		  "md5": "fcd1a7a0723a9a4bc85f33a386e0012f",
+		  "type": "kernel",
+		  "size": 6766133
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_440.zip",
+		  "version": "Stock 4.4",
+		  "md5": "c7d76b695ac68264e30d35c0b646c779",
+		  "type": "kernel",
+		  "size": 6888358
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4.1",
+			  "4.4.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_441.zip",
+		  "version": "Stock 4.4.1 and 4.4.2",
+		  "md5": "ac7c98159fc64709372bfc716d136a85",
+		  "type": "kernel",
+		  "size": 6891066
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4.3",
+			  "4.4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_443.zip",
+		  "version": "Stock 4.4.3 and 4.4.4",
+		  "md5": "2435a0612cc13e7dc7d5a12a918eee37",
+		  "type": "kernel",
+		  "size": 6895318
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "L"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_L.zip",
+		  "version": "Stock L preview",
+		  "md5": "62afcf59d79d905f8a5cdc6e4f77d92d",
+		  "type": "kernel",
+		  "size": 6897429
+		},
+		{
+		  "extra": {
+			"display": "LPX13D",
+			"releases": [
+			  "5.0"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_50_lpx13d.zip",
+		  "version": "Stock 5.0 preview (LPX13D)",
+		  "md5": "830e3ad9852db9c77c5063b18d3d4034",
+		  "type": "kernel",
+		  "size": 6901954
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.0"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_50_final.zip",
+		  "version": "Stock 5.0",
+		  "md5": "5bf161b53c2401738b771f6c807ac3ad",
+		  "type": "kernel",
+		  "size": 6902181
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.0.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_501.zip",
+		  "version": "Stock 5.0.1 and 5.0.2",
+		  "md5": "610791ed88c7aec7e00565a6bd3b0f27",
+		  "type": "kernel",
+		  "size": 6902489
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_510-2.zip",
+		  "version": "Stock 5.1",
+		  "md5": "66bf8378ef17413846fc622e6eaddc38",
+		  "type": "kernel",
+		  "size": 6883443
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.1.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_511-3.zip",
+		  "version": "Stock 5.1.1",
+		  "md5": "26a8a580eb56839a4a836a99cec2dcab",
+		  "type": "kernel",
+		  "size": 6882657
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "6.0",
+			  "6.0.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_601.zip",
+		  "version": "Stock 6.0 and 6.0.1",
+		  "md5": "78f9500de3200485a6a1ebafccfe1ffb",
+		  "type": "kernel",
+		  "size": 6874001
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_cm102-3.zip",
+		  "version": "CM 10.2 - old",
+		  "type": "kernel",
+		  "md5": "ad6d56fcab213c8abd8ff675d8a10659",
+		  "size": 6890131
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "4.3"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_cm102_new.zip",
+		  "version": "CM 10.2 - new",
+		  "md5": "4b83802c7b449b1ad29a5c7cd3c4f769",
+		  "type": "kernel",
+		  "size": 6481187
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "4.4",
+			  "4.4.1",
+			  "4.4.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_cm11-5-a7e944881c.zip",
+		  "version": "CM 11 (4.4 - 4.4.2)",
+		  "md5": "6454a95118289daa03b45f495b6ea1d9",
+		  "type": "kernel",
+		  "size": 6551236
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "4.4.3",
+			  "4.4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_cm11-8-56220eb2ca.zip",
+		  "version": "CM 11 (4.4.3 - 4.4.4)",
+		  "md5": "7384f678b827347af27bf299ca07f995",
+		  "type": "kernel",
+		  "size": 6554447
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "5.0",
+			  "5.0.1",
+			  "5.0.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_cm12-1-791c990ed0.zip",
+		  "version": "CM 12",
+		  "md5": "c3818a405e5ba25cdcd1af072b88e5cc",
+		  "type": "kernel",
+		  "size": 6561413
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "5.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_cm121-01-ea9556ceb5.zip",
+		  "version": "CM 12.1",
+		  "md5": "f810d4e680f23a9edd35117bdd33ad88",
+		  "type": "kernel",
+		  "size": 6430549
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "6.0.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_flo_cm13-01-b4a11dbae.zip",
+		  "version": "CM 13.0",
+		  "md5": "ad2e3ab13d75546ba1199e5be27a5171",
+		  "type": "kernel",
+		  "size": 4992006
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/multirom_uninstaller-flo-2.zip",
+		  "version": "",
+		  "type": "uninstaller",
+		  "md5": "49bcee4a0828a032f63cadb1307821c4",
+		  "size": 1536468
+		}
+	  ],
+	  "changelogs": [
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/changelog_flo_multirom.txt",
+		  "name": "MultiROM"
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/changelog_flo_recovery.txt",
+		  "name": "Recovery"
+		}
+	  ],
+	  "name": "deb",
+	  "ubuntu_touch": {
+		"req_multirom": "22",
+		"req_recovery": "mrom20140227-00"
+	  }
+	},
+	{
+	  "files": [
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/multirom-20160207-v33-mako.zip",
+		  "version": "33",
+		  "type": "multirom",
+		  "size": 3597394,
+		  "md5": "305f3026a9bf96ed10d82ffc83263422"
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/TWRP_multirom_mako_20160210.img",
+		  "version": "mrom20160210-00",
+		  "type": "recovery",
+		  "size": 12570624,
+		  "md5": "679ab5c39ec548160f29dd58f3d189ad"
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.2.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_422_jdq.zip",
+		  "version": "Stock 4.2.2",
+		  "md5": "9b4f098807b89edeb3eb9badbf61b2cc",
+		  "type": "kernel",
+		  "size": 5857934
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_430_jwr.zip",
+		  "version": "Stock 4.3 (version JWR)",
+		  "type": "kernel",
+		  "size": 6134493,
+		  "md5": "ac57a62b75703d609a5d1bd123e4f92a"
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.3"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_430_jss.zip",
+		  "version": "Stock 4.3 (version JSS)",
+		  "md5": "82139ce71178ff51edea0d4d4cae9562",
+		  "type": "kernel",
+		  "size": 6141901
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_440.zip",
+		  "version": "Stock 4.4",
+		  "md5": "bd84195b9a41d6105bb9d11eb21eaf86",
+		  "type": "kernel",
+		  "size": 6192850
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4.1",
+			  "4.4.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_441.zip",
+		  "version": "Stock 4.4.1 and 4.4.2",
+		  "md5": "5ff6596c3cdc94e5bd23a2f9d4f9d5e2",
+		  "type": "kernel",
+		  "size": 6193094
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4.3",
+			  "4.4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_443.zip",
+		  "version": "Stock 4.4.3 and 4.4.4",
+		  "md5": "46315fd903f8859cbdcb2fd5bf7f4382",
+		  "type": "kernel",
+		  "size": 6197812
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.0"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_50_final.zip",
+		  "version": "Stock 5.0",
+		  "md5": "0a3afa40c8ef29cc1f8507eac5c8a914",
+		  "type": "kernel",
+		  "size": 6211861
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.0.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_501.zip",
+		  "version": "Stock 5.0.1",
+		  "md5": "76da26b4398aa6786f7cc6e7e022f838",
+		  "type": "kernel",
+		  "size": 6213498
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_510.zip",
+		  "version": "Stock 5.1",
+		  "md5": "68a15883d82d599d215e7a91253fb392",
+		  "type": "kernel",
+		  "size": 6186553
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.1.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_511-2.zip",
+		  "version": "Stock 5.1.1",
+		  "md5": "59016684f058124888bf2cf0ec90ce67",
+		  "type": "kernel",
+		  "size": 6193842
+		},
+		{
+		  "extra": {
+			"display": "cm_mako",
+			"releases": [
+			  "4.2",
+			  "4.2.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_cm101.zip",
+		  "version": "CM 10.1",
+		  "md5": "af6f8f1fe2ddb0162a27a849dad27d66",
+		  "type": "kernel",
+		  "size": 5965511
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_cm102_old.zip",
+		  "version": "CM 10.2 - old",
+		  "type": "kernel",
+		  "size": 6154044,
+		  "md5": "28dd83885b3e9fdcf00a8091653c1695"
+		},
+		{
+		  "extra": {
+			"display": "cm_mako",
+			"releases": [
+			  "4.3"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_cm102-2.zip",
+		  "version": "CM 10.2 - new",
+		  "md5": "de8a1a1ed97c0730d2ef19fd613e2833",
+		  "type": "kernel",
+		  "size": 6175841
+		},
+		{
+		  "extra": {
+			"display": "cm_mako",
+			"releases": [
+			  "4.4",
+			  "4.4.1",
+			  "4.4.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_cm11-5-a7e944881c.zip",
+		  "version": "CM 11 (4.4 - 4.4.2)",
+		  "md5": "c498e25c3e0bb957fd05a83b900a2509",
+		  "type": "kernel",
+		  "size": 6301148
+		},
+		{
+		  "extra": {
+			"display": "cm_mako",
+			"releases": [
+			  "4.4.3",
+			  "4.4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_cm11-8-56220eb2ca.zip",
+		  "version": "CM 11 (4.4.3 - 4.4.4)",
+		  "md5": "c1d45714bb7e77249f4390a4e2ff87c2",
+		  "type": "kernel",
+		  "size": 6303146
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "5.0",
+			  "5.0.1",
+			  "5.0.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_cm12-1-791c990ed0.zip",
+		  "version": "CM 12",
+		  "md5": "48fcca1d52f78aa6d639f89935e9aca0",
+		  "type": "kernel",
+		  "size": 6311575
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "5.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_cm121-01-ea9556ceb5.zip",
+		  "version": "CM 12.1",
+		  "md5": "0939a2b47924b4621e8db9311ff1f4fb",
+		  "type": "kernel",
+		  "size": 6279164
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "6.0.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_mako_cm13-01-b4a11dbae.zip",
+		  "version": "CM 13.0",
+		  "md5": "c28f91ecfe7fefd792228838c4f67a04",
+		  "type": "kernel",
+		  "size": 6091379
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/multirom_uninstaller-mako.zip",
+		  "version": "",
+		  "type": "uninstaller",
+		  "size": 1536697,
+		  "md5": "5ea5aea05bf6defb87839f96ece6343b"
+		}
+	  ],
+	  "changelogs": [
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/changelog_mako_multirom.txt",
+		  "name": "MultiROM"
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/changelog_mako_recovery.txt",
+		  "name": "Recovery"
+		}
+	  ],
+	  "name": "mako",
+	  "ubuntu_touch": {
+		"req_multirom": "17",
+		"req_recovery": "mrom20131110-00"
+	  }
+	},
+	{
+	  "files": [
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/multirom-20160207-v33-hammerhead.zip",
+		  "version": "33",
+		  "type": "multirom",
+		  "size": 5482460,
+		  "md5": "210c77cbc489976a3ad3c182a7b27ee4"
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/TWRP_multirom_hammerhead_20160210.img",
+		  "version": "mrom20160210-00",
+		  "type": "recovery",
+		  "size": 14106624,
+		  "md5": "8435215c5e1c3ec89a06e6bfa3554267"
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_hammerhead_440.zip",
+		  "version": "Stock 4.4",
+		  "md5": "459c1155ba5929597b6a947b2af41fee",
+		  "type": "kernel",
+		  "size": 7417553
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4.1",
+			  "4.4.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_hammerhead_441.zip",
+		  "version": "Stock 4.4.1 and 4.4.2",
+		  "md5": "9aaa36e481900e5ab02121c2cdd7c2e4",
+		  "type": "kernel",
+		  "size": 7424349
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "4.4.3",
+			  "4.4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_hammerhead_443.zip",
+		  "version": "Stock 4.4.3 and 4.4.4",
+		  "md5": "6a6c33ebc6ce9af390f1672dccc4ba86",
+		  "type": "kernel",
+		  "size": 7497845
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "L"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_hammerhead_L.zip",
+		  "version": "Stock L preview",
+		  "md5": "42b4830f03f313841fd91766265f4d05",
+		  "type": "kernel",
+		  "size": 7548348
+		},
+		{
+		  "extra": {
+			"display": "LPX13D",
+			"releases": [
+			  "5.0"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_hammerhead_50_lpx13d.zip",
+		  "version": "Stock 5.0 preview (LPX13D)",
+		  "md5": "203ca7a66fb3809278cec440362711f4",
+		  "type": "kernel",
+		  "size": 7563010
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.0",
+			  "5.0.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_hammerhead_50_final.zip",
+		  "version": "Stock 5.0 and 5.0.1",
+		  "md5": "cddece17104fe17e32e72c6a9348a289",
+		  "type": "kernel",
+		  "size": 7527778
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_hammerhead_510.zip",
+		  "version": "Stock 5.1",
+		  "md5": "5634cf425f4fbeed976fcd76bc9812d2",
+		  "type": "kernel",
+		  "size": 7567804
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.1.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_hammerhead_511-2.zip",
+		  "version": "Stock 5.1.1",
+		  "md5": "2aea23a5782e071a25bff2553173d5ef",
+		  "type": "kernel",
+		  "size": 7493445
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "6.0",
+			  "6.0.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_hammerhead_601.zip",
+		  "version": "Stock 6.0 and 6.0.1",
+		  "md5": "f99a4ddbbf50f4a3d8b0b1b6e93073f9",
+		  "type": "kernel",
+		  "size": 7530541
+		},
+		{
+		  "extra": {
+			"display": "cm_hammerhead",
+			"releases": [
+			  "4.4",
+			  "4.4.1",
+			  "4.4.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_hammerhead_cm11-9-3d91a2d569.zip",
+		  "version": "CM 11 (4.4 - 4.4.2)",
+		  "md5": "7d8b56a55b223c6bda7f1972a66638e5",
+		  "type": "kernel",
+		  "size": 7591154
+		},
+		{
+		  "extra": {
+			"display": "cm_hammerhead",
+			"releases": [
+			  "4.4.3",
+			  "4.4.4"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_hammerhead_cm11-12-7d4eef09ee.zip",
+		  "version": "CM 11 (4.4.3 - 4.4.4)",
+		  "md5": "6171b24985bbb8ae108b374efc299fae",
+		  "type": "kernel",
+		  "size": 7602036
+		},
+		{
+		  "extra": {
+			"display": "cm_hammerhead",
+			"releases": [
+			  "5.0",
+			  "5.0.1",
+			  "5.0.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_hammerhead_cm12-1-10f4294a6b.zip",
+		  "version": "CM 12.0",
+		  "md5": "b61dc18d0f9d0362e02c9c36c79cbd7d",
+		  "type": "kernel",
+		  "size": 7232483
+		},
+		{
+		  "extra": {
+			"display": "cm_hammerhead",
+			"releases": [
+			  "5.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_hammerhead_cm121-01-47b35a93b8.zip",
+		  "version": "CM 12.1",
+		  "md5": "3c34ec6a4d1f4ccddd4d087430d78eae",
+		  "type": "kernel",
+		  "size": 7164335
+		},
+		{
+		  "extra": {
+			"display": "cm_",
+			"releases": [
+			  "6.0.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_hammerhead_cm13-01-2c39db662.zip",
+		  "version": "CM 13.0",
+		  "md5": "aa62c98119af77a6ee838eafe01a0b7f",
+		  "type": "kernel",
+		  "size": 7298891
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/multirom_uninstaller-hammerhead-2.zip",
+		  "version": "",
+		  "type": "uninstaller",
+		  "size": 1568728,
+		  "md5": "80c3865f82aa8519d2d0fda9b3f6da35"
+		}
+	  ],
+	  "changelogs": [
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/changelog_hammerhead_multirom.txt",
+		  "name": "MultiROM"
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/changelog_hammerhead_recovery.txt",
+		  "name": "Recovery"
+		}
+	  ],
+	  "name": "hammerhead",
+	  "ubuntu_touch": {
+		"req_multirom": "22",
+		"req_recovery": "mrom20140227-00"
+	  }
+	},
+	{
+	  "files": [
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/multirom-20160207-v33-shamu.zip",
+		  "version": "33",
+		  "type": "multirom",
+		  "size": 5424449,
+		  "md5": "f5f596690cbf84d119c67f5fea3a1f26"
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/TWRP_multirom_shamu_20160210.img",
+		  "version": "mrom20160210-00",
+		  "type": "recovery",
+		  "size": 15115564,
+		  "md5": "b91f0b608ef9e3be5c30bb3626debb25"
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.0",
+			  "5.0.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_shamu_500.zip",
+		  "version": "Stock 5.0 and 5.0.1",
+		  "md5": "1d2b688e6c4317a51feecd5f01c85d91",
+		  "type": "kernel",
+		  "size": 7184810
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_shamu_510.zip",
+		  "version": "Stock 5.1",
+		  "md5": "f3aa146ac3bdc66dba50cee5fe57b1cd",
+		  "type": "kernel",
+		  "size": 7205588
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "5.1.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_shamu_511-2.zip",
+		  "version": "Stock 5.1.1",
+		  "md5": "8c0797fc071b57f750e81b42b07c383d",
+		  "type": "kernel",
+		  "size": 7205936
+		},
+		{
+		  "extra": {
+			"releases": [
+			  "6.0",
+			  "6.0.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_shamu_601-2.zip",
+		  "version": "Stock 6.0 and 6.0.1",
+		  "md5": "6d65a12fe41c847206e3cb8fa7b82bc2",
+		  "type": "kernel",
+		  "size": 7257040
+		},
+		{
+		  "extra": {
+			"display": "cm_shamu",
+			"releases": [
+			  "5.0",
+			  "5.0.1",
+			  "5.0.2"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_shamu_cm12-02-50134cb9df.zip",
+		  "version": "CM 12.0",
+		  "md5": "a6fc889b4ae833aec370213ef7a01166",
+		  "type": "kernel",
+		  "size": 7208860
+		},
+		{
+		  "extra": {
+			"display": "cm_shamu",
+			"releases": [
+			  "5.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_shamu_cm121-01-8f9e2418f2.zip",
+		  "version": "CM 12.1",
+		  "md5": "3c6c6834d67fc0a2e4e2e90d99fd8a4f",
+		  "type": "kernel",
+		  "size": 7226898
+		},
+		{
+		  "extra": {
+			"display": "cm_shamu",
+			"releases": [
+			  "6.0",
+			  "6.0.1"
+			]
+		  },
+		  "url": "http:\/\/tasemnice.eu\/multirom\/kernel_kexec_shamu_cm13-01-677c36b09.zip",
+		  "version": "CM 13.0",
+		  "md5": "531b910a5f27d530da7fd777a759392e",
+		  "type": "kernel",
+		  "size": 7328034
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/multirom_uninstaller-shamu.zip",
+		  "version": "",
+		  "type": "uninstaller",
+		  "size": 1622724,
+		  "md5": "1bfe39b3e13502599bdaa54e77f7cec4"
+		}
+	  ],
+	  "changelogs": [
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/changelog_shamu_multirom.txt",
+		  "name": "MultiROM"
+		},
+		{
+		  "url": "http:\/\/tasemnice.eu\/multirom\/changelog_shamu_recovery.txt",
+		  "name": "Recovery"
+		}
+	  ],
+	  "name": "shamu"
+	}
+  ]
+}

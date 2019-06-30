@@ -1,0 +1,50 @@
+Short changelog
+
+29/10/2015
+v32b - device-specific patch
+Added back MultiROM Manager compatibility
+Added Sailfish OS infos
+F2FS support! Check XDA thread at http://goo.gl/jiftWC
+Rebuilt MultiROM tree on Lollipop 5.1.1 source
+Various code updates
+
+15/6/2015
+Base update to v32
+Added support for Lollipop 5.1.x ROMs
+Better support for Lollipop 5.0.x ROMs
+
+16/12/2014
+Fixed ghost update found in previous build
+Better support for Lollipop ROMs
+
+15/12/2014
+Restored installation on other jf variants
+
+25/11/2014
+Device source - general tree update
+MultiROM - Assume fstab version 2 by default, fix klog saving and text size on emergency reboot screen, write fstab for fw_mounter as version 2
+
+12/11/2014
+Device source - disable TWRP event logging
+
+25/10/2014
+MultiROM - Minor updates, full MultiROM Manager support (this fixes the ghost update)
+Uninstaller ZIP - Add support for other jf variants
+
+1/10/2014
+Device source - add MicroSD card to init devices, fixed device autoboot in recovery
+
+30/09/2014
+MultiROM - ROM boot from external SD now supported
+
+6/09/2014
+Device source - Clean and update init devices, Add volume keys init
+
+3/09/2014
+Fixed installation on other jf devices
+
+1/09/2014-REFRESH
+Device source -  add power button init
+
+1/09/2014
+Initial public release

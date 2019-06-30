@@ -1,0 +1,15 @@
+http://tasemnice.eu/multirom/manifest.json
+GET
+0
+HTTP/1.1 200 OK
+10
+Content-Type: application/json
+Content-Length: 29833
+Accept-Ranges: bytes
+Server: nginx/1.10.3 (Ubuntu)
+Date: Mon, 27 May 2019 00:20:26 GMT
+Last-Modified: Fri, 25 Mar 2016 17:06:37 GMT
+ETag: "56f5701d-7489"
+X-Android-Selected-Protocol: http/1.1
+X-Android-Sent-Millis: 1558916423973
+X-Android-Received-Millis: 1558916428050

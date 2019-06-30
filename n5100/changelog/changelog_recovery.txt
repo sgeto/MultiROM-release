@@ -1,0 +1,40 @@
+Short changelog
+
+29/10/2015
+Base updated to 2.8.7.0
+Added back MultiROM Manager compatibility
+Added possibility to backup/restore all IMEI-related partitions (credits: AntaresOne)
+Various code updates & improvements
+
+15/6/2015
+Base updated to 2.8.6.0
+Various code updates
+
+16/12/2014
+Base updated to 2.8.2.0
+Better support for primary/secondary Lollipop ROMs install/update
+Support for block image update
+
+26/11/2014
+Fixed recovery not booting
+
+25/11/2014
+Add partial support for block_image_update in secondary ROMs ZIPs, copy ZIP to /tmp only when we know we need to change it
+
+12/11/2014
+Build image without event logging
+
+4/11/2014
+Add back "Share kernel" option
+
+30/10/2014
+Update to v2.8.1.0
+
+25/10/2014
+Full MultiROM Manager support
+
+2/10/2014
+Add support for MultiROM Manager app
+
+30/09/2014
+Removed "share kernel" option, ROM installation to MicroSD card supported
