@@ -203,8 +203,8 @@
 			"name": "GT-N5100",
 			"ubuntu_touch":
 				{
-					"req_multirom": "",
-					"req_recovery": ""
+					"req_multirom": "32",
+					"req_recovery": "mrom20151029-00"
 				}
 			}
 		]
